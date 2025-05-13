@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://myportfoli-bmns.vercel.app/](https://myportfoli-bmns.vercel.app/)
 
-- 📫 How to reach me **rsjeevkumar16034@gmail.com**
+- 📫 How to reach me **rajeevkumar16034@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JfB2eblUIbraOirj3w4fpg5zrP1jti_5/view?usp=drivesdk](https://drive.google.com/file/d/1JfB2eblUIbraOirj3w4fpg5zrP1jti_5/view?usp=drivesdk)
 
