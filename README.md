@@ -1,46 +1,152 @@
-<h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
-<h3 align="center">Code. Design. Inspire.</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://geeky01adarsh.netlify.app/assets/profile1-d123abc2.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0030,100:FF2D78&height=200&section=header&text=Rajeev&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%20%7C%20%20ML%20%2F%20DL%20%20%7C%20%20GenAI%20Engineer&descAlignY=60&descSize=16&descColor=FF2D78" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeev-sr&label=Profile%20views&color=0e75b6&style=flat" alt="rajeev-sr" /> </p>
+</div>
 
-- 🔭 I’m currently working on **Cricket Player selection Based-WebAPP**
+<div align="center">
 
-- 🌱 I’m currently learning **three.js**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF2D78&center=true&vCenter=true&width=700&lines=Building+intelligent+full-stack+applications;Crafting+scalable+MERN+architectures;Designing+ML+%26+Deep+Learning+pipelines;Shipping+Generative+AI+%26+LLM+products;LangChain+%7C+LangGraph+%7C+LangSmith+%7C+LangFuse;RAG+%7C+Agents+%7C+Voice+AI+%7C+REST+APIs)](https://git.io/typing-svg)
 
-- 📫 How to reach me **rajeevkumar16034@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JfB2eblUIbraOirj3w4fpg5zrP1jti_5/view?usp=drivesdk](https://drive.google.com/file/d/1JfB2eblUIbraOirj3w4fpg5zrP1jti_5/view?usp=drivesdk)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rajeev-kumar-bb143a289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeev kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rajeev16034" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajeev16034" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/2338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="2338" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajeev_suru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeev_suru" height="30" width="40" /></a>
+### About Me
+
+```ts
+const rajeev = {
+  username : "rajeev-sr",
+  roles    : [
+    "Full Stack Engineer",
+    "ML / DL / GenAI Engineer",
+  ],
+  stack    : ["React", "FastAPI", "Python", "LLMs", "RAG"],
+  focus    : "Where great UX meets intelligent systems",
+  learning : "Agentic AI · LangGraph · LLM fine-tuning",
+  openTo   : "Collabs, open-source & freelance projects",
+};
+```
+
+---
+
+### Tech Stack
+
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash&theme=dark"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,redux&theme=dark"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeev-sr&show_icons=true&locale=en&layout=compact" alt="rajeev-sr" /></p>
+#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=FF4B4B" height="48"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=FF6C37" height="48"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=E10098" height="48"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeev-sr&show_icons=true&locale=en" alt="rajeev-sr" /></p>
+#### Databases & ORMs
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&theme=dark"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=2D3748" height="48"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white&labelColor=880000" height="48"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF2D78?style=flat-square&logo=databricks&logoColor=white&labelColor=FF2D78" height="48"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white&labelColor=111111" height="48"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=3ECF8E" height="48"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeev-sr&" alt="rajeev-sr" /></p>
+#### ML / DL / Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=013243" height="48"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=150458" height="48"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=11557C" height="48"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white&labelColor=4C72B0" height="48"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white&labelColor=D00000" height="48"/>
+  <img src="https://img.shields.io/badge/YOLO-FF2D78?style=flat-square&logo=opencv&logoColor=white&labelColor=FF2D78" height="48"/>
+</p>
 
-<!--
-**rajeev-sr/rajeev-sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Generative AI & LLMs
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white&labelColor=1C3C3C" height="48"/>
+  <img src="https://img.shields.io/badge/LangGraph-0D0D0D?style=flat-square&logo=graphql&logoColor=FF2D78&labelColor=0D0D0D" height="48"/>
+  <img src="https://img.shields.io/badge/LangSmith-1a0030?style=flat-square&logo=langchain&logoColor=FF2D78&labelColor=1a0030" height="48"/>
+  <img src="https://img.shields.io/badge/Langfuse-FF2D78?style=flat-square&logo=datadog&logoColor=white&labelColor=FF2D78" height="48"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000&labelColor=FFD21E" height="48"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white&labelColor=000000" height="48"/>
+  <img src="https://img.shields.io/badge/Ollama-0D0D0D?style=flat-square&logo=ollama&logoColor=white&labelColor=222222" height="48"/>
+  <img src="https://img.shields.io/badge/RAG-1a0030?style=flat-square&logo=openai&logoColor=FF2D78&labelColor=1a0030" height="48"/>
+  <img src="https://img.shields.io/badge/Prompt%20Eng.-0D0D0D?style=flat-square&logo=openai&logoColor=FF2D78&labelColor=0D0D0D" height="48"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning-FF2D78?style=flat-square&logo=huggingface&logoColor=white&labelColor=FF2D78" height="48"/>
+</p>
 
-Here are some ideas to get you started:
+#### API Integrations
+<p>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-000000?style=flat-square&logo=openai&logoColor=white&labelColor=000000" height="48"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=4285F4" height="48"/>
+  <img src="https://img.shields.io/badge/Vapi-FF2D78?style=flat-square&logo=audacity&logoColor=white&labelColor=FF2D78" height="48"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=635BFF" height="48"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white&labelColor=F22F46" height="48"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Developer Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,firebase,jupyter,anaconda&theme=dark"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=000&labelColor=F9AB00" height="48"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000&labelColor=F2C811" height="48"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=EA4B71" height="48"/>
+</p>
+
+#### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,nginx&theme=dark"/>
+</p>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rajeev-sr&theme=tokyonight&hide_border=true&background=0D0D0D&ring=FF2D78&fire=FF2D78&currStreakLabel=FF2D78&sideLabels=c9d1d9&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajeev-sr&bg_color=0D0D0D&color=FF2D78&line=FF2D78&point=ffffff&area=true&area_color=1a0030&hide_border=true)](https://github.com/rajeev-sr)
+
+</div>
+
+---
+
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/rajeev-kumar-bb143a289/))
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevkumar16034@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeev-sr)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajeev-sr&color=FF2D78&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,50:1a0030,100:0D0D0D&height=120&section=footer" width="100%"/>
